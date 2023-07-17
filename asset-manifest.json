@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/personal-homepage/static/js/main.e05ff1b1.js",
+    "static/js/988.bc68a2e5.chunk.js": "/personal-homepage/static/js/988.bc68a2e5.chunk.js",
+    "static/media/profile.jpg": "/personal-homepage/static/media/profile.8d0e982ab62b94a26ca4.jpg",
+    "static/media/github.svg": "/personal-homepage/static/media/github.5bf0911212d335bb835f2200af552804.svg",
+    "static/media/sun.svg": "/personal-homepage/static/media/sun.d42838989b2d377c229da92fd7f85bcc.svg",
+    "index.html": "/personal-homepage/index.html",
+    "static/media/warning.svg": "/personal-homepage/static/media/warning.075a94eeccec88302f6ed55c172b72eb.svg",
+    "static/media/envelope.svg": "/personal-homepage/static/media/envelope.26211eaaaa6c65af54e458abaff54c3e.svg",
+    "static/media/spinner.svg": "/personal-homepage/static/media/spinner.4699abfe993d31466453278910fb96ad.svg",
+    "static/media/bullet.svg": "/personal-homepage/static/media/bullet.c8b6c5f315ff7c6385d3ef28aaf33537.svg",
+    "main.e05ff1b1.js.map": "/personal-homepage/static/js/main.e05ff1b1.js.map",
+    "988.bc68a2e5.chunk.js.map": "/personal-homepage/static/js/988.bc68a2e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e05ff1b1.js"
+  ]
+}
