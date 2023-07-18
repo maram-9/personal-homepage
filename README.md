@@ -1,7 +1,31 @@
+<div align="center"> 
+<h2> Hi! Welcome to my personal homepage </h2>
+
 # Marzena Malka
 
 # Demo
 [See Movies Browser](https://maram-9.github.io/personal-homepage/)
+
+<a id="technologies"></a>
+##  👩🏻‍💻 Used Technologies:
+- HTML
+- CSS
+- JavaScript ES6
+- Flex
+- Grid
+- Markdown
+- Node.js
+- Styled-components
+- Create-react-app
+- React
+- React Redux
+- React Redux-Toolkit
+- React Redux-Saga
+- Axios
+
+<br/><br/>
+
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
