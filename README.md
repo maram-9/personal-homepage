@@ -1,27 +1,20 @@
 <div align="center"> 
-<h2> Hi! Welcome to my personal homepage </h2>
+<h2> Hi! Welcome to my page </h2>
 
 # Marzena Malka
+
+![Personal homepage- gif](./src/Animation.gif)
+
+<h1>My Personal Homepage </h1>
+ My name is Marzena and I'm an enthusiastic Frontend Developer with passion for impove my skills. I love to try new technologies and generally enjoy new experiences. This portfolio demonstrates my skill set, recent projects, and contact information.  
 
 # Demo
 [See Movies Browser](https://maram-9.github.io/personal-homepage/)
 
 <a id="technologies"></a>
 ##  👩🏻‍💻 Used Technologies:
-- HTML
-- CSS
-- JavaScript ES6
-- Flex
-- Grid
-- Markdown
-- Node.js
-- Styled-components
-- Create-react-app
-- React
-- React Redux
-- React Redux-Toolkit
-- React Redux-Saga
-- Axios
+`JavaScript ES+` `React` `React Redux` `React Redux-Saga` `React Redux-Toolkit` `API` `Axios` `styled-component` `RWD` `Normalize` `Immuntabbility` `Accesability` `color-alpha`
+`Flex` `Grid` `Markdown` `Node.js` `Styled-components` `Create-react-app` `
 
 <br/><br/>
 
