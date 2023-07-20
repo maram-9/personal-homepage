@@ -23,5 +23,8 @@ export const GlobalStyle = createGlobalStyle`
         @media(max-width: ${({ theme }) => theme.breakpoints.mobileMax}px) {
             padding-bottom: 30px;
         }
-    };
+    }
+    button {
+    cursor: pointer;
+    }
 `;

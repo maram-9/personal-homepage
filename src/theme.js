@@ -1,4 +1,4 @@
-const colorNames = {
+export const colorNames = {
     scienceBlue: "#0366D6",
     blumine: "#1F5189",
     dodgerBlue: "#2188FF",

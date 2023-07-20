@@ -11,7 +11,7 @@ export const Repositories = ({ repositories }) => (
                         <LinksRow>
                             <dt>Demo:</dt>
                             <LinksValue>
-                            <Link href={homepage} target="_blank" rel="noreferrer noopener">{homepage}
+                            <Link href={homepage}>{homepage}
                             </Link>
                             </LinksValue>
                         </LinksRow>
@@ -19,7 +19,7 @@ export const Repositories = ({ repositories }) => (
                     <LinksRow>
                         <dt>Code:</dt>
                         <LinksValue>
-                        <Link href={html_url} target="_blank" rel="noreferrer noopener">{html_url}
+                        <Link href={html_url}>{html_url}
                         </Link>
                         </LinksValue>
                     </LinksRow>

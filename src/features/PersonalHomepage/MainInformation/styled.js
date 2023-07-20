@@ -3,7 +3,7 @@ import { ButtonLink } from "../ButtonLink";
 import { ReactComponent as EnvelopeIcon } from "./images/envelope.svg";
 
 export const Wrapper = styled.header`
-    margin-top: -30px; // that#s height of the theme switch
+    margin-top: -30px;
     display: grid;
     grid-template-columns: auto 1fr;
     grid-gap: 64px;
@@ -69,6 +69,8 @@ export const StyledButtonLink = styled(ButtonLink)`
     align-items: center;
     margin-top: 32px;
     border-radius: 4px;
+    border: none;
+    color: white;
     
     @media(max-width: ${({ theme }) => theme.breakpoints.mobileMax}px) {
         margin-top: 24px;
