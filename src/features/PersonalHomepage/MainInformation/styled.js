@@ -12,6 +12,11 @@ export const Wrapper = styled.header`
     @media(max-width: ${({ theme }) => theme.breakpoints.tabletVerticalMax}px) {
         grid-gap: 32px;
     }
+
+    @media (max-width: ${({ theme }) => theme.breakpoints.mobileMax}px) {
+    grid-template-columns: 1fr;
+    grid-gap: 12px;
+  }
 `;
 
 export const Avatar = styled.img`

@@ -14,7 +14,7 @@ export const Footer = () => (
                 If you have a&nbsp;website, dashboard
                 or mobile app in mind and need some help
                 to&nbsp;make your ideas come to life,
-                feel free to conatct me🤞
+                feel free to contact me🤞
             </Paragrah>
             <SocialIcons />
         </Address>

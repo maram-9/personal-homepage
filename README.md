@@ -3,7 +3,7 @@
 
 # Marzena Malka
 
-![Personal homepage- gif](./src/Animation.gif)
+![Personal homepage- gif](./public/Animation.gif)
 
 <h2>👧💻My Personal Homepage </h1>
  My name is Marzena and I'm an enthusiastic Frontend Developer with passion for impove my skills. I love to try new technologies and generally enjoy new experiences. This portfolio demonstrates my skill set, recent projects, and contact information.  

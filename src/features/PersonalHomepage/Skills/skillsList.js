@@ -26,7 +26,6 @@ export const skills = [
   
   export const nextSkills = [
     "React Testing Library",
-    "CSS in JS",
     "Node.js",
     "TypeScript",
     "JS classes",
