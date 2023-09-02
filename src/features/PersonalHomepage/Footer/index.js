@@ -10,11 +10,7 @@ export const Footer = () => (
                 <EmailLink href={`mailto:${email}`} title={email} rel="noopener noreferrer">{email}</EmailLink>
             </EmailWrapper>
             <Paragrah>
-                I am alaways open to new proejct and very excited about the opportunity to be considered for new role.
-                If you have a&nbsp;website, dashboard
-                or mobile app in mind and need some help
-                to&nbsp;make your ideas come to life,
-                feel free to contact me🤞
+            I am always open to a new project and very excited about the opportunity to be considered for a new role. If you have a&nbsp;website, dashboard or mobile app in mind and need some help to&nbsp;make your ideas come to life, feel free to contact me.🤞
             </Paragrah>
             <SocialIcons />
         </Address>

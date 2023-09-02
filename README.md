@@ -6,7 +6,8 @@
 ![Personal homepage- gif](./public/Animation.gif)
 
 <h2>👧💻My Personal Homepage </h1>
- My name is Marzena and I'm an enthusiastic Frontend Developer with passion for impove my skills. I love to try new technologies and generally enjoy new experiences. This portfolio demonstrates my skill set, recent projects, and contact information.  
+ My name is Marzena, and I'm an enthusiastic junior frontend developer with a passion for improving my skills. I love to try new technologies and generally enjoy new experiences. This portfolio demonstrates my skill set, recent projects, and contact information.  
+
 
 # Demo
 [See Personal Homepage](https://maram-9.github.io/personal-homepage/)

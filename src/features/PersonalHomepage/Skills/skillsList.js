@@ -30,4 +30,5 @@ export const skills = [
     "TypeScript",
     "JS classes",
     "Cypress",
+    "Python",
   ];

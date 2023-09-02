@@ -10,7 +10,7 @@ export const MainInformation = () => (
             <Name>Marzena Malka</Name>
             <Summary>
             👧💻 I am an enthusiastic Junior Frontend Developer who is looking for development opportunities.
-            I love to learn new things and expand my horizons. I want impove my skills. 
+            I love to learn new things and expand my horizons. I want to improve my skills. 
             </Summary>
             <StyledButtonLink 
                 href={`mailto:${email}`} 
