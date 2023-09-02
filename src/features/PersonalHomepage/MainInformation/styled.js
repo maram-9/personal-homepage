@@ -21,7 +21,7 @@ export const Wrapper = styled.header`
 
 export const Avatar = styled.img`
     width: 30vw;
-    max-width: 384px;
+    max-width: 390px;
     border-radius: 50%;
 
     @media(max-width: ${({ theme }) => theme.breakpoints.mobileMax}px) {
