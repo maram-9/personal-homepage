@@ -2,7 +2,7 @@ import { styledIcon } from "./styled";
 import { ReactComponent as GithubIcon } from "./icons/github.svg";
 //import { ReactComponent as FacebookIcon } from "./icons/facebook.svg";
 //import { ReactComponent as InstagramIcon } from "./icons/instagram.svg";
-//import { ReactComponent as LinkedInIcon } from "./icons/linkedIn.svg";
+import { ReactComponent as LinkedInIcon } from "./icons/linkedIn.svg";
 
 export const socials = [
     {
@@ -20,9 +20,9 @@ export const socials = [
         //url: "",
         //Icon: styledIcon(InstagramIcon),
     //},
-    //{
-        //name: "LinkedIn",
-        //url: "",
-        //Icon: styledIcon(LinkedInIcon),
-    //},
+    {
+        name: "LinkedIn",
+        url: "https://www.linkedin.com/in/marzena-malka-991517286/",
+        Icon: styledIcon(LinkedInIcon),
+    },
 ];

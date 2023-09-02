@@ -16,7 +16,7 @@ export const socials = [
         Icon: styleIcon(FacebookIcon),
     },
     {
-        name: "LinedIn",
+        name: "Linedn",
         url: "http://linkedin.com",
         Icon: "styleIcon(LinkedInIcon)",
     },
